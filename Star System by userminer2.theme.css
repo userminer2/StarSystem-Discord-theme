@@ -1,0 +1,42 @@
+/**
+* @name Star System by userminer2
+* @version 1.0
+* @description A clean remix of the "Frosted Glass" theme.
+* @author userminer2
+* @Source https://github.com/userminer2/StarSystem-Discord-theme
+* @website none
+*/
+@import url("https://github.com/userminer2/StarSystem-Discord-theme");
+@import url('https://github.com/userminer2/StarSystem-Discord-theme');
+:root {
+--background-image: url('https://i.imgur.com/aTTH5Xf.png');
+--background-image-blur: 0px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url('https://i.imgur.com/lSTVZHO.png');
+--popout-modal-blur: 0px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-image: url('https://discordstyles.github.io/FrostedGlass/assets/discord.svg');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.2;
+--left-brightness: 0.2;
+--middle-brightness: 0.5;
+--right-brightness: 0;
+--popout-modal-brightness: 0;
+--gradient-primary: 85,183,39;
+--gradient-secondary: 63,81,181;
+--gradient-direction: 300deg;
+--tint-colour: 78,167,36;
+--tint-brightness: 0;
+--window-padding: 10px;
+--window-roundness: 0px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: #B7FF39FF;
+--show-gift-gif-buttons: no-repeat;
+--font: 'Courier';
+--update-notice-1: none;
+--HSL-server-icon-size: 40px;
+--HSL-server-spacing: 10px;
+}
